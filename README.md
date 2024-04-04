@@ -5,7 +5,7 @@ To know more about Black Jack Game and it's rules then visit "https://www.hippod
 
 This project contains 4 modules:
 
-1. GameApp.java: This module contains "main" function, from where everything begins. By runing this code it will create an object which act as a player playing with the Dealer.
+1.GameApp.java: This module contains "main" function, from where everything begins. By runing this code it will create an object which act as a player playing with the Dealer.
 
 2.Game.java: This module contains various class which contains the rule of the game.
 
